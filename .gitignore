@@ -1,0 +1,9 @@
+#Maven
+target/
+#Intellij IDEA
+.idea/
+*.iml
+out/
+#OS
+.DS_Store
+Thumbs.db

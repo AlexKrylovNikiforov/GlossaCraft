@@ -1,0 +1,6 @@
+language: "GlossaCraft-MVP"
+version: "0.1"
+
+phonemes:
+  vowels: ["a", "e", "i", "o", "u"]
+  consonants: ["p", "t", "k", "m", "n", "s", "r", "l"]
